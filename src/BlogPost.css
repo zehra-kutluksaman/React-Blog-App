@@ -1,0 +1,22 @@
+
+.blog-post-detail {
+  padding: 20px;
+}
+
+.blog-post-detail h2 {
+  margin-bottom: 15px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 5px 10px;
+  background-color: #2196F3;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.back-link:hover {
+  background-color: #0b7dda;
+}
